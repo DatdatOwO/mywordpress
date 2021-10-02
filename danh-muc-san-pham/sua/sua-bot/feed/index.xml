@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Sữa bột &#8211; Dat Milk</title>
+	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/sua/sua-bot/feed/" rel="self" type="application/rss+xml" />
+	<link>https://datdatowo.github.io/mywordpress</link>
+	<description>VietNam Organic Farm</description>
+	<lastBuildDate>Sun, 26 Sep 2021 03:20:55 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Bột thức uống lúa mạch Milo Active Go hũ 400g</title>
+		<link>https://datdatowo.github.io/mywordpress/sản%20phẩm/bot-thuc-uong-lua-mach-milo-active-go-hu-400g/</link>
+					<comments>https://datdatowo.github.io/mywordpress/sản%20phẩm/bot-thuc-uong-lua-mach-milo-active-go-hu-400g/#respond</comments>
+		
+		<dc:creator><![CDATA[tranthanhdat]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 03:20:43 +0000</pubDate>
+				<guid isPermaLink="false">https://datdatowo.github.io/mywordpress/?post_type=product&#038;p=672</guid>
+
+					<description><![CDATA[Thức uống lúa mạch Milo từ mầm lúa mạch nguyên cám có tác dụng cung cấp nguồn năng lượng hoạt động lâu dài hơn cho việc học tập, chơi thể thao và các hoạt động thể chất. Bột thức uống lúa mạch Milo Active Go hũ 400g dạng bột mịn dễ hòa tan, tiện lợi để pha chế và thưởng thức]]></description>
+										<content:encoded><![CDATA[Thức uống lúa mạch Milo từ mầm lúa mạch nguyên cám có tác dụng cung cấp nguồn năng lượng hoạt động lâu dài hơn cho việc học tập, chơi thể thao và các hoạt động thể chất. Bột thức uống lúa mạch Milo Active Go hũ 400g dạng bột mịn dễ hòa tan, tiện lợi để pha chế và thưởng thức]]></content:encoded>
+					
+					<wfw:commentRss>https://datdatowo.github.io/mywordpress/sản%20phẩm/bot-thuc-uong-lua-mach-milo-active-go-hu-400g/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Combo thức uống lúa mạch + ngũ cốc Milo</title>
+		<link>https://datdatowo.github.io/mywordpress/sản%20phẩm/combo-thuc-uong-lua-mach-ngu-coc-milo/</link>
+					<comments>https://datdatowo.github.io/mywordpress/sản%20phẩm/combo-thuc-uong-lua-mach-ngu-coc-milo/#respond</comments>
+		
+		<dc:creator><![CDATA[tranthanhdat]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 03:20:43 +0000</pubDate>
+				<guid isPermaLink="false">https://datdatowo.github.io/mywordpress/?post_type=product&#038;p=673</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://datdatowo.github.io/mywordpress/sản%20phẩm/combo-thuc-uong-lua-mach-ngu-coc-milo/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
